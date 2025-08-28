@@ -1,0 +1,15 @@
+C:\Users\Simón Pedro García S\Desktop\PROGRAMACIÓN DE SOFTWARE\SalonBaile\bin\Debug\net8.0\SalonBaile.exe
+C:\Users\Simón Pedro García S\Desktop\PROGRAMACIÓN DE SOFTWARE\SalonBaile\bin\Debug\net8.0\SalonBaile.deps.json
+C:\Users\Simón Pedro García S\Desktop\PROGRAMACIÓN DE SOFTWARE\SalonBaile\bin\Debug\net8.0\SalonBaile.runtimeconfig.json
+C:\Users\Simón Pedro García S\Desktop\PROGRAMACIÓN DE SOFTWARE\SalonBaile\bin\Debug\net8.0\SalonBaile.dll
+C:\Users\Simón Pedro García S\Desktop\PROGRAMACIÓN DE SOFTWARE\SalonBaile\bin\Debug\net8.0\SalonBaile.pdb
+C:\Users\Simón Pedro García S\Desktop\PROGRAMACIÓN DE SOFTWARE\SalonBaile\obj\Debug\net8.0\SalonBaile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simón Pedro García S\Desktop\PROGRAMACIÓN DE SOFTWARE\SalonBaile\obj\Debug\net8.0\SalonBaile.AssemblyInfoInputs.cache
+C:\Users\Simón Pedro García S\Desktop\PROGRAMACIÓN DE SOFTWARE\SalonBaile\obj\Debug\net8.0\SalonBaile.AssemblyInfo.cs
+C:\Users\Simón Pedro García S\Desktop\PROGRAMACIÓN DE SOFTWARE\SalonBaile\obj\Debug\net8.0\SalonBaile.csproj.CoreCompileInputs.cache
+C:\Users\Simón Pedro García S\Desktop\PROGRAMACIÓN DE SOFTWARE\SalonBaile\obj\Debug\net8.0\SalonBaile.sourcelink.json
+C:\Users\Simón Pedro García S\Desktop\PROGRAMACIÓN DE SOFTWARE\SalonBaile\obj\Debug\net8.0\SalonBaile.dll
+C:\Users\Simón Pedro García S\Desktop\PROGRAMACIÓN DE SOFTWARE\SalonBaile\obj\Debug\net8.0\refint\SalonBaile.dll
+C:\Users\Simón Pedro García S\Desktop\PROGRAMACIÓN DE SOFTWARE\SalonBaile\obj\Debug\net8.0\SalonBaile.pdb
+C:\Users\Simón Pedro García S\Desktop\PROGRAMACIÓN DE SOFTWARE\SalonBaile\obj\Debug\net8.0\SalonBaile.genruntimeconfig.cache
+C:\Users\Simón Pedro García S\Desktop\PROGRAMACIÓN DE SOFTWARE\SalonBaile\obj\Debug\net8.0\ref\SalonBaile.dll
