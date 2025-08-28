@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Simón Pedro García S\\Desktop\\PROGRAMACIÓN DE SOFTWARE\\Simon_Garcia_SalonesBaile\\SalonBaile\\SalonBaile.csproj": {}
+    "C:\\Users\\Simón Pedro García S\\Desktop\\Simon_Garcia_SalonesBaile\\SalonBaile\\SalonBaile.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Simón Pedro García S\\Desktop\\PROGRAMACIÓN DE SOFTWARE\\Simon_Garcia_SalonesBaile\\SalonBaile\\SalonBaile.csproj": {
+    "C:\\Users\\Simón Pedro García S\\Desktop\\Simon_Garcia_SalonesBaile\\SalonBaile\\SalonBaile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Simón Pedro García S\\Desktop\\PROGRAMACIÓN DE SOFTWARE\\Simon_Garcia_SalonesBaile\\SalonBaile\\SalonBaile.csproj",
+        "projectUniqueName": "C:\\Users\\Simón Pedro García S\\Desktop\\Simon_Garcia_SalonesBaile\\SalonBaile\\SalonBaile.csproj",
         "projectName": "SalonBaile",
-        "projectPath": "C:\\Users\\Simón Pedro García S\\Desktop\\PROGRAMACIÓN DE SOFTWARE\\Simon_Garcia_SalonesBaile\\SalonBaile\\SalonBaile.csproj",
+        "projectPath": "C:\\Users\\Simón Pedro García S\\Desktop\\Simon_Garcia_SalonesBaile\\SalonBaile\\SalonBaile.csproj",
         "packagesPath": "C:\\Users\\Simón Pedro García S\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Simón Pedro García S\\Desktop\\PROGRAMACIÓN DE SOFTWARE\\Simon_Garcia_SalonesBaile\\SalonBaile\\obj\\",
+        "outputPath": "C:\\Users\\Simón Pedro García S\\Desktop\\Simon_Garcia_SalonesBaile\\SalonBaile\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Simón Pedro García S\\AppData\\Roaming\\NuGet\\NuGet.Config"
